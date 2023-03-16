@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+.rect{
+    width:130px;
+    height:200px;
+    position:absolute;
+    border-radius: 10px;
+}
+p{
+    margin:0px;
+    position:absolute;
+    left:49%;
+    bottom:50%;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 50px;
+    font-weight: 2px;
+}
+body{
+    overflow: hidden;
+}
